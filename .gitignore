@@ -1,0 +1,12 @@
+# Reports may contain local network information - never commit them
+Scan-*/
+Scan-ref*/
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+
+# OS / editor
+.DS_Store
+Thumbs.db
